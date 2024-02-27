@@ -9,4 +9,5 @@ Output:
 
 ![grafik](https://github.com/maalja/Convert-Image-into-Sketch/assets/153437966/f4df3fea-b6e5-4e5a-a925-32afc6f4d64e)
 
-![grafik](https://github.com/maalja/Convert-Image-into-Sketch/assets/153437966/f18414fa-c196-42db-84e0-d1a6ad6902d9)
+![grafik](https://github.com/maalja/Convert-Image-into-Sketch/assets/153437966/2d3a31c1-cf7d-437a-8cbf-3671d9291360)
+
