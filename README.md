@@ -5,9 +5,9 @@ You can convert an image into a pencil sketch or a water sketch
 Run the App by typing this Command in your Terminal: streamlit run app.py
 
 Output:
-![grafik](https://github.com/maalja/Convert-Image-into-Sketch/assets/153437966/52b3d2eb-ab4d-473e-a10b-a668c5ac1a87)
+<img width="631" alt="Screenshot 2024-02-27 114053" src="https://github.com/maalja/Convert-Image-into-Sketch/assets/153437966/5617f1cb-5856-4145-b22a-a5e3720ff376">
 
-![grafik](https://github.com/maalja/Convert-Image-into-Sketch/assets/153437966/f4df3fea-b6e5-4e5a-a925-32afc6f4d64e)
+<img width="578" alt="Screenshot 2024-02-27 114028" src="https://github.com/maalja/Convert-Image-into-Sketch/assets/153437966/2a4015a6-1849-4587-80e8-f0346658d779">
 
-![grafik](https://github.com/maalja/Convert-Image-into-Sketch/assets/153437966/2d3a31c1-cf7d-437a-8cbf-3671d9291360)
+![grafik](https://github.com/maalja/Convert-Image-into-Sketch/assets/153437966/68a27d82-9f57-498d-a9b6-46a8c4f1ce85)
 
