@@ -3,7 +3,7 @@ With the Streamlit Web Application viewing in your Browser
 You can convert an image into a pencil sketch or a water sketch
 
 Run the App by typing this Command in your Terminal: 
-[[ ${streamlit run app.py[ignoreclosebraces]:-off} == on ]]
+'''streamlit run app.py'''
 
 Output:
 ![grafik](https://github.com/maalja/Convert-Image-into-Sketch/assets/153437966/6a409309-2d8d-44a5-9a70-512739d02eff)
