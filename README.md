@@ -1,7 +1,8 @@
 # Convert-Image-into-Sketch
 With the Streamlit Web Application viewing in your Browser
 You can convert an image into a pencil sketch or a water sketch
-
+The ```requirements.txt``` will be installed using:
+pip install -r requirements.txt
 Run the App by typing this Command in your Terminal: 
 ```streamlit run app.py```
 
